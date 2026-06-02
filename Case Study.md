@@ -28,19 +28,19 @@ Cybercrime police registered a case of cheating and criminal breach of trust and
 
 ## 🔎 Detailed Breakdown of What Made This Scam Work
 
-### Trust-Building with Small Wins
+### 1. Trust-Building with Small Wins
 
 The fraudsters initially allowed small investments and seemingly genuine withdrawals, giving victims the belief that the platform was legitimate. This tactic erodes typical investor scepticism and encourages larger commitments.
 
-### Fabricated Platform Appearance
+### 2. Fabricated Platform Appearance
 
 The trading site likely displayed account balances and profit figures that appeared credible, creating the illusion of successful trading activity. This visual reinforcement is a key manipulation tactic in investment scams.
 
-### Gradual Escalation of Financial Commitment
+### 3. Gradual Escalation of Financial Commitment
 
 Once initial small investments were reinforced with superficial success, the victims were persuaded to transfer far larger sums — a common psychological escalation pattern used by fraudsters.
 
-### Withdrawal Block and Landing Fee Demand
+### 4. Withdrawal Block and Landing Fee Demand
 
 When the victims attempted to cash out larger sums, they were told a **“risk assessment security fee”** was required, effectively trapping the funds and prompting more emotional investment. The platform then changed domain addresses and went dark once the scammers had extracted as much money as possible.
 

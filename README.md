@@ -35,19 +35,6 @@ These scams combine **technology + psychology**, making them extremely convincin
 
 ***
 
-## 📊 Featured Case Studies
-
-### 💸 Digital Arrest Scam (India)
-Fake police/cybercrime officers isolate victims via video calls and force money transfers under threat of arrest.
-
-### 💔 AI Deepfake Romance Scam (India)
-AI-generated personas use voice cloning and deepfake videos to build fake romantic relationships and extract money.
-
-### 💼 Fake Job Offer Scam (Bengaluru)
-Victims are tricked through fake interviews and offer letters, sometimes resigning from real jobs before realizing the fraud.
-
-***
-
 ## 🧠 Key Learning Areas
 
 - Social engineering tactics

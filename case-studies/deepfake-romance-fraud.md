@@ -7,8 +7,8 @@ In February 2024, cybersecurity researchers warned that romance scams in India h
 Reports indicated a large rise in AI-assisted dating fraud, where scammers used synthetic voices, images, and videos to create fake romantic relationships. A global spike in deepfake-enabled romance scams was also reported, with losses reaching tens of millions of dollars across Asia.
 
 **Key reference:**  
-- Times of India report on AI romance scams: https://timesofindia.indiatimes.com/gadgets-news/beware-of-scammers-using-ai-and-deepfakes-for-romance-scams/articleshow/107629274.cms  
-- CNN report on deepfake romance scam losses: https://edition.cnn.com/2024/10/15/asia/hong-kong-deepfake-romance-scam-intl-hnk
+- Times of India report on AI romance scams [Link](https://timesofindia.indiatimes.com/gadgets-news/beware-of-scammers-using-ai-and-deepfakes-for-romance-scams/articleshow/107629274.cms)  
+- CNN report on deepfake romance scam losses [Link](https://edition.cnn.com/2024/10/15/asia/hong-kong-deepfake-romance-scam-intl-hnk)
 
 ***
 

@@ -1,6 +1,6 @@
 # 💸 Case Study: Bogus Bank Refund Scam
 
-In 2024, a 72-year-old retiree in Manchester, United Kingdom, was defrauded of over £22,000 after being contacted by individuals impersonating bank officials. The victim had previously paid off a mortgage and was told that her bank had overrefunded the loan account due to a “system error.” The fraudsters — using fake call IDs mimicking the bank’s official number — convinced her that she would be refunded the excess amount if she first paid a series of “handling, regulatory, and clearance fees.” [Source](ARTICLE_URL_HERE)
+In 2024, a 72-year-old retiree in Manchester, United Kingdom, was defrauded of over £22,000 after being contacted by individuals impersonating bank officials. The victim had previously paid off a mortgage and was told that her bank had overrefunded the loan account due to a “system error.” The fraudsters — using fake call IDs mimicking the bank’s official number — convinced her that she would be refunded the excess amount if she first paid a series of “handling, regulatory, and clearance fees.”
 
 ## 📍 What Happened — Timeline of Events
 

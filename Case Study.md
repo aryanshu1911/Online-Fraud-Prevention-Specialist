@@ -1,6 +1,6 @@
 # 💰 Case Study: Vizag Cryptocurrency Investment Scam
 
-In late 2025, a couple from Visakhapatnam (Vizag), Andhra Pradesh, lost nearly ₹1.5 crore (~$180,000) after being lured into a fraudulent cryptocurrency investment scheme. The scam involved convincing the victims to invest in digital assets through what appeared to be a legitimate online trading platform. Police have since registered a case, underscoring the sophistication of cybercriminals targeting unsuspecting investors and the growing prevalence of crypto-related scams in India. The Times of India
+In late 2025, a couple from Visakhapatnam (Vizag), Andhra Pradesh, lost nearly ₹1.5 crore (~$180,000) after being lured into a fraudulent cryptocurrency investment scheme. The scam involved convincing the victims to invest in digital assets through what appeared to be a legitimate online trading platform. Police have since registered a case, underscoring the sophistication of cybercriminals targeting unsuspecting investors and the growing prevalence of crypto-related scams in India. [The Times of India](https://timesofindia.indiatimes.com/city/visakhapatnam/andhra-pradesh-fraud-vizag-couple-duped-of-rs-1-5-crore-in-crypto-investment-scam/articleshow/125815455.cms)
 
 ## 📍 What Happened — Timeline of Events
 
